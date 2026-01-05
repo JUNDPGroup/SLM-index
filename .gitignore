@@ -1,0 +1,17 @@
+.vscode/*
+*.o
+torch_models/*
+Exp
+*.sh
+files/*
+indices/ZM.h
+datasets/*
+
+PostgreSQL/
+
+*.txt
+
+torch_models_zm/*
+
+*.eps
+*.png
